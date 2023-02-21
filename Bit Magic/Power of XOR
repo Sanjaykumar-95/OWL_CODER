@@ -1,0 +1,2 @@
+1) In an array numbers occurs even number of times except one number.
+->So we use the Xor operation that the XOR of the two equal numbers is '0'.
